@@ -1,6 +1,6 @@
 - 👋 I'm Mio
 - Frontend
-- A coder should be interesting in OPEN_SOURCE
+- A coder should be interested in OPEN_SOURCE
 
 <!---
 miownag/miownag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
