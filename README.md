@@ -1,7 +1,7 @@
 - 👋 I'm Mio
 - Frontend
-- Used to work for Bytedance
-- Now in AMS Tencent, doing sth of AD
+- Used to work at Bytedance
+- Now in AMS Tencent, doing sth of ADs
 
 <!---
 miownag/miownag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
