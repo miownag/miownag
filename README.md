@@ -1,6 +1,7 @@
 - 👋 I'm Mio
 - Frontend
-- A coder should be interested in OPEN_SOURCE
+- Used to work for Bytedance
+- Now in AMS Tencent, doing sth of AD
 
 <!---
 miownag/miownag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
