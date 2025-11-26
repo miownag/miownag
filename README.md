@@ -1,6 +1,5 @@
 - 👋 I'm Mio
-- Frontend
-- Shopee -> Bytedance -> Tencent
+- JS/TS engineer, now in Tencent AMS
 
 <!---
 miownag/miownag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
