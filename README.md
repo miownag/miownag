@@ -1,5 +1,5 @@
 - 👋 I'm Mio
-- JS/TS engineer, now in Tencent AMS
+- TypeScript Engineer
 
 <!---
 miownag/miownag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
