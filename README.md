@@ -1,5 +1,6 @@
-- 👋 I'm Mio
-- TypeScript Engineer
+TypeScript
+
+https://code-mio.vercel.app
 
 <!---
 miownag/miownag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
