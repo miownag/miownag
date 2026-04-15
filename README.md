@@ -1,5 +1,3 @@
-TypeScript
-
 https://code-mio.vercel.app
 
 <!---
